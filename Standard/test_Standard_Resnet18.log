@@ -1,0 +1,4 @@
+INFO:root:cuda
+INFO:root:Final Test Loss: 0.322, Final Test Accuracy: 0.9150 with Standard_test_data
+INFO:root:Final Test Loss: 29.827, Final Test Accuracy: 0.0000 with PGD_untargated_test_data
+INFO:root:Final Test Loss: 17.690, Final Test Accuracy: 0.0037 with PGD_targated_test_data

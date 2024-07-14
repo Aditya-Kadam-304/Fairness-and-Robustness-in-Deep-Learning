@@ -1,0 +1,66 @@
+INFO:root:cuda
+INFO:root:Balanced Batch
+INFO:root:Loss_class is True
+INFO:root:Epoch 1 loss: 4.354, Accuracy: 0.216
+INFO:root:Epoch 2 loss: 4.147, Accuracy: 0.274
+INFO:root:Epoch 3 loss: 4.054, Accuracy: 0.304
+INFO:root:Epoch 4 loss: 3.974, Accuracy: 0.326
+INFO:root:Epoch 5 loss: 3.898, Accuracy: 0.349
+INFO:root:Epoch 6 loss: 3.825, Accuracy: 0.369
+INFO:root:Epoch 7 loss: 3.762, Accuracy: 0.388
+INFO:root:Epoch 8 loss: 3.707, Accuracy: 0.404
+INFO:root:Epoch 9 loss: 3.659, Accuracy: 0.416
+INFO:root:Epoch 10 loss: 3.611, Accuracy: 0.429
+INFO:root:Epoch 11 loss: 3.572, Accuracy: 0.439
+INFO:root:Epoch 12 loss: 3.535, Accuracy: 0.450
+INFO:root:Epoch 13 loss: 3.500, Accuracy: 0.458
+INFO:root:Epoch 14 loss: 3.465, Accuracy: 0.469
+INFO:root:Epoch 15 loss: 3.441, Accuracy: 0.471
+INFO:root:Epoch 16 loss: 3.414, Accuracy: 0.479
+INFO:root:Epoch 17 loss: 3.385, Accuracy: 0.486
+INFO:root:Epoch 18 loss: 3.362, Accuracy: 0.490
+INFO:root:Epoch 19 loss: 3.335, Accuracy: 0.499
+INFO:root:Epoch 20 loss: 3.314, Accuracy: 0.502
+INFO:root:Epoch 21 loss: 3.034, Accuracy: 0.569
+INFO:root:Epoch 22 loss: 2.913, Accuracy: 0.592
+INFO:root:Epoch 23 loss: 2.847, Accuracy: 0.606
+INFO:root:Epoch 24 loss: 2.796, Accuracy: 0.615
+INFO:root:Epoch 25 loss: 2.743, Accuracy: 0.626
+INFO:root:Epoch 26 loss: 2.698, Accuracy: 0.634
+INFO:root:Epoch 27 loss: 2.655, Accuracy: 0.644
+INFO:root:Epoch 28 loss: 2.611, Accuracy: 0.652
+INFO:root:Epoch 29 loss: 2.573, Accuracy: 0.659
+INFO:root:Epoch 30 loss: 2.542, Accuracy: 0.664
+INFO:root:Epoch 31 loss: 2.506, Accuracy: 0.672
+INFO:root:Epoch 32 loss: 2.472, Accuracy: 0.677
+INFO:root:Epoch 33 loss: 2.436, Accuracy: 0.684
+INFO:root:Epoch 34 loss: 2.416, Accuracy: 0.688
+INFO:root:Epoch 35 loss: 2.381, Accuracy: 0.693
+INFO:root:Epoch 36 loss: 2.369, Accuracy: 0.698
+INFO:root:Epoch 37 loss: 2.331, Accuracy: 0.703
+INFO:root:Epoch 38 loss: 2.303, Accuracy: 0.711
+INFO:root:Epoch 39 loss: 2.285, Accuracy: 0.712
+INFO:root:Epoch 40 loss: 2.267, Accuracy: 0.717
+INFO:root:Epoch 41 loss: 2.050, Accuracy: 0.758
+INFO:root:Epoch 42 loss: 1.916, Accuracy: 0.777
+INFO:root:Epoch 43 loss: 1.847, Accuracy: 0.787
+INFO:root:Epoch 44 loss: 1.800, Accuracy: 0.792
+INFO:root:Epoch 45 loss: 1.753, Accuracy: 0.797
+INFO:root:Epoch 46 loss: 1.724, Accuracy: 0.802
+INFO:root:Epoch 47 loss: 1.700, Accuracy: 0.806
+INFO:root:Epoch 48 loss: 1.666, Accuracy: 0.810
+INFO:root:Epoch 49 loss: 1.641, Accuracy: 0.814
+INFO:root:Epoch 50 loss: 1.608, Accuracy: 0.817
+INFO:root:Epoch 51 loss: 1.580, Accuracy: 0.822
+INFO:root:Epoch 52 loss: 1.570, Accuracy: 0.822
+INFO:root:Epoch 53 loss: 1.535, Accuracy: 0.828
+INFO:root:Epoch 54 loss: 1.516, Accuracy: 0.830
+INFO:root:Epoch 55 loss: 1.500, Accuracy: 0.832
+INFO:root:Epoch 56 loss: 1.472, Accuracy: 0.837
+INFO:root:Epoch 57 loss: 1.457, Accuracy: 0.839
+INFO:root:Epoch 58 loss: 1.431, Accuracy: 0.843
+INFO:root:Epoch 59 loss: 1.415, Accuracy: 0.845
+INFO:root:Epoch 60 loss: 1.401, Accuracy: 0.847
+INFO:root:Final Test Loss: 0.709, Final Test Accuracy: 0.7797 with Standard_test_data
+INFO:root:Final Test Loss: 2.765, Final Test Accuracy: 0.4126 with PGD_untargated_test_data
+INFO:root:Final Test Loss: 1.116, Final Test Accuracy: 0.6467 with PGD_targated_test_data
